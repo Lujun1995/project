@@ -23,3 +23,8 @@ Here are the data for the project:
 * "CODEBOOK.md" gives the relevant information about "HAR_average.txt".
 * "HAR_average.txt" is a tidy dataset that contains mean of each measurement for each activity and each subject.
 * "README.md" is the file you are reading.
+
+## Steps to reproduce and analysis this project
+
+1. Open the R script run_analysis.r using a text editor.
+2. Run the R script run_analysis.r.
